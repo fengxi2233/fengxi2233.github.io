@@ -180,29 +180,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日</p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#102;&#101;&#110;&#x67;&#x78;&#105;&#50;&#x32;&#x33;&#x33;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#102;&#101;&#110;&#x67;&#x78;&#105;&#50;&#x32;&#x33;&#x33;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a><br>      或者:<a href="mailto:&#102;&#101;&#110;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#x33;&#64;&#x71;&#x71;&#46;&#99;&#111;&#x6d;">&#102;&#101;&#110;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#x33;&#64;&#x71;&#x71;&#46;&#99;&#111;&#x6d;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[<p>这里啥也没有</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日</p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#x66;&#101;&#x6e;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#51;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x66;&#101;&#x6e;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#51;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a><br>      或者:<a href="mailto:&#102;&#x65;&#x6e;&#103;&#120;&#x69;&#50;&#50;&#x33;&#51;&#x40;&#x71;&#113;&#x2e;&#99;&#111;&#x6d;">&#102;&#x65;&#x6e;&#103;&#120;&#x69;&#50;&#50;&#x33;&#51;&#x40;&#x71;&#113;&#x2e;&#99;&#111;&#x6d;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
       
     </entry>
     
@@ -220,11 +198,33 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>图库</title>
       <link href="/tuku/index.html"/>
       <url>/tuku/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2022/11/12/TBYStVMpHgXbDZW.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>收藏的一些图片</p>  <a href='/img/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2022/11/12/TBYStVMpHgXbDZW.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>收藏的一些图片</p>  <a href='/erciyuan'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<p>这里啥也没有</p>]]></content>
       
     </entry>
     
