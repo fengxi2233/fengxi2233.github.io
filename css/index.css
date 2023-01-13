@@ -1437,7 +1437,7 @@ hr:before {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\f2dc';
+  content: '\f08a';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
@@ -3915,12 +3915,12 @@ h1.page-title + .tag-cloud-list {
   }
 }
 #page-header #site-subtitle {
-  color: var(--light-grey);
-  font-size: 1.15em;
+  color: var(--pink);
+  font-size: 1.35em;
 }
 @media screen and (min-width: 768px) {
   #page-header #site-subtitle {
-    font-size: 1.72em;
+    font-size: 1.92em;
   }
 }
 #page-header #site_social_icons {
