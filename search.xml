@@ -176,11 +176,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日</p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#x66;&#x65;&#110;&#x67;&#120;&#105;&#50;&#x32;&#x33;&#51;&#64;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#x66;&#x65;&#110;&#x67;&#120;&#105;&#50;&#x32;&#x33;&#51;&#64;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;</a><br>      或者:<a href="mailto:&#x66;&#101;&#110;&#x67;&#120;&#105;&#50;&#50;&#51;&#51;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#109;">&#x66;&#101;&#110;&#x67;&#120;&#105;&#50;&#50;&#51;&#51;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#109;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
       
     </entry>
     
@@ -198,33 +198,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日</p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#x66;&#101;&#110;&#x67;&#120;&#x69;&#x32;&#x32;&#51;&#x33;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#x66;&#101;&#110;&#x67;&#120;&#x69;&#x32;&#x32;&#51;&#x33;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a><br>      或者:<a href="mailto:&#102;&#x65;&#x6e;&#x67;&#120;&#105;&#x32;&#50;&#x33;&#x33;&#64;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;">&#102;&#x65;&#x6e;&#x67;&#120;&#105;&#x32;&#50;&#x33;&#x33;&#64;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>留言板</title>
       <link href="/messageboard/index.html"/>
       <url>/messageboard/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="留言板："><a href="#留言板：" class="headerlink" title="留言板："></a>留言板：</h1><h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title=" 有什么想说的？ "></a><div align="center"> 有什么想说的？ </font></h2><h2 id="有什么想问的？"><a href="#有什么想问的？" class="headerlink" title=" 有什么想问的？ "></a><div align="center"> 有什么想问的？ </font></h2><h2 id="有什么想吐槽的？"><a href="#有什么想吐槽的？" class="headerlink" title=" 有什么想吐槽的？ "></a><div align="center"> 有什么想吐槽的？ </font></h2><h2 id="可以在下面留言…"><a href="#可以在下面留言…" class="headerlink" title=" 可以在下面留言… "></a><div align="center"> 可以在下面留言… </font></h2>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -245,6 +223,28 @@
       <title>Update</title>
       <link href="/timeline/index.html"/>
       <url>/timeline/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
