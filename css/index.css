@@ -3478,7 +3478,7 @@ h1.page-title + .tag-cloud-list {
   color: rgba(237,85,106,0.8);
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #00c4b6;
+  background: rgba(153,255,238,0.925);
   color: #fff;
 }
 #aside-content :only-child > .card-widget {
@@ -4402,7 +4402,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #49b1f5;
+  color: #df9596;
 }
 #article-container a:hover {
   text-decoration: underline;
