@@ -1,0 +1,21 @@
+Snackbar.show({
+       text: '欢迎来到枫汐的小站。',
+       width: '475px',
+       onActionClick: function(element) {
+           //Set opacity of element to 0 to close Snackbar
+           $(element).css('opacity', 0);
+           alert('Clicked Called!');
+       }
+    });
+
+
+  .snackbar-pos {
+  border-radius: 5px !important;/* 弹窗圆角 */
+  }
+  .snackbar-container {
+    background: #5fccf1ff(--sianx_popup) !important;/* 弹窗颜色 */
+  }
+
+Snackbar.show({ actionText: '收到！', });
+
+Snackbar.show({ actionTextColor: '#5fff9698', });      
