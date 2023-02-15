@@ -237,33 +237,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日<br><del>此站可能会倒闭，但永远不会变质</del> </p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#x66;&#101;&#x6e;&#x67;&#x78;&#105;&#x32;&#x32;&#51;&#51;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#x66;&#101;&#x6e;&#x67;&#x78;&#105;&#x32;&#x32;&#51;&#51;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;</a><br>      或者:<a href="mailto:&#x66;&#101;&#110;&#x67;&#120;&#x69;&#50;&#x32;&#51;&#x33;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;">&#x66;&#101;&#110;&#x67;&#120;&#x69;&#50;&#x32;&#51;&#x33;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Update</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><mark class="hl-label pink">此页记录此网站运行日志</mark> <h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><h2 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h2><h3 id="2月"><a href="#2月" class="headerlink" title="2月"></a>2月</h3><p>02&#x2F;11 创建并优化相册</p><h3 id="1月"><a href="#1月" class="headerlink" title="1月"></a>1月</h3><p>01&#x2F;13 微调图标·以及目录，尝试性加入评论系统。<br>01&#x2F;11 优化字体颜色<br>01&#x2F;10 关闭了夜间模式<br>01&#x2F;05 更新部分图片<br>01&#x2F;04 创建此日志记录</p><h2 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h2><h3 id="12月"><a href="#12月" class="headerlink" title="12月"></a>12月</h3><p>12&#x2F;30 删除了部分错误（未调用）的代码<br>12&#x2F;22 恢复网站访问，微调源代码<br>12&#x2F;15 暂时关闭网站访问<br>12&#x2F;09 申请icp备案失败，原因为身份证快到期了。（寄！）<br>12&#x2F;04 优化了网站访问速度<br>12&#x2F;01 更换了图片加载方式</p><h3 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h3><p>11&#x2F;30 开始正常更新内容<br>11&#x2F;24 修复error，恢复更新<br>11&#x2F;22 代码出现error，造成无法正常更新网站<br>11&#x2F;17 申请了萌国icp备案（20229119号）<br>11&#x2F;15 添加了关于界面<br>11&#x2F;14 修复了底部半透明问题，现为全透明<br>11&#x2F;11 应用butterfly主题，写入基础代码：建立GitHub库，链接Vercel<br>11&#x2F;10 部署hexo框架<br>11&#x2F;08 域名购买成功（fengxi2233.love）</p>]]></content>
+        <content type="html"><![CDATA[<p>此网站创建于2022年11月24日<br><del>此站可能会倒闭，但永远不会变质</del> </p><img src= "/img/about.jpg" alt="琉璃">（上图为兽耳科技所属虚拟人物：琉璃）<p>本人创建此网站的目的仅供自己娱乐<br>所包含内容无实质有效性</p><p>图片等内容均来自网络，若有版权问题<br>请联系mail：<a href="mailto:&#102;&#101;&#110;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#51;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;">&#102;&#101;&#110;&#103;&#x78;&#105;&#50;&#x32;&#x33;&#51;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;</a><br>      或者:<a href="mailto:&#x66;&#x65;&#110;&#x67;&#120;&#x69;&#50;&#50;&#x33;&#51;&#64;&#x71;&#113;&#46;&#99;&#111;&#109;">&#x66;&#x65;&#110;&#x67;&#120;&#x69;&#50;&#50;&#x33;&#51;&#64;&#x71;&#113;&#46;&#99;&#111;&#109;</a><br>测试链接：<a href="https://bilibili.com/">bilibili</a>  <a href="https://baidu.com/">百度</a>  <a href="https://github.com/">github</a></p><p>打赏：<br>alipay<br><img src= "/img/alipay.jpg" alt="支付宝"><br>wepay<br><img src= "/img/wepay.png" alt="微信"><br>qqpay<br><img src= "/img/qqpay.png" alt="QQ"></p>]]></content>
       
     </entry>
     
@@ -281,6 +259,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>留言板</title>
       <link href="/messageboard/index.html"/>
       <url>/messageboard/index.html</url>
@@ -292,11 +281,11 @@
     
     
     <entry>
-      <title>图库</title>
-      <link href="/tuku/index.html"/>
-      <url>/tuku/index.html</url>
+      <title>Update</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2022/11/12/TBYStVMpHgXbDZW.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>收藏的一些图片</p>  <a href='/tuku/erciyuan'></a>  </figcaption>  </figure>  </div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/img/fengmian/meitu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">美图</div>  <p>普通的图片</p>  <a href='/tuku/meitu'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><mark class="hl-label pink">此页记录此网站运行日志</mark> <h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><h2 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h2><h3 id="2月"><a href="#2月" class="headerlink" title="2月"></a>2月</h3><p>02&#x2F;11 创建并优化相册</p><h3 id="1月"><a href="#1月" class="headerlink" title="1月"></a>1月</h3><p>01&#x2F;13 微调图标·以及目录，尝试性加入评论系统。<br>01&#x2F;11 优化字体颜色<br>01&#x2F;10 关闭了夜间模式<br>01&#x2F;05 更新部分图片<br>01&#x2F;04 创建此日志记录</p><h2 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h2><h3 id="12月"><a href="#12月" class="headerlink" title="12月"></a>12月</h3><p>12&#x2F;30 删除了部分错误（未调用）的代码<br>12&#x2F;22 恢复网站访问，微调源代码<br>12&#x2F;15 暂时关闭网站访问<br>12&#x2F;09 申请icp备案失败，原因为身份证快到期了。（寄！）<br>12&#x2F;04 优化了网站访问速度<br>12&#x2F;01 更换了图片加载方式</p><h3 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h3><p>11&#x2F;30 开始正常更新内容<br>11&#x2F;24 修复error，恢复更新<br>11&#x2F;22 代码出现error，造成无法正常更新网站<br>11&#x2F;17 申请了萌国icp备案（20229119号）<br>11&#x2F;15 添加了关于界面<br>11&#x2F;14 修复了底部半透明问题，现为全透明<br>11&#x2F;11 应用butterfly主题，写入基础代码：建立GitHub库，链接Vercel<br>11&#x2F;10 部署hexo框架<br>11&#x2F;08 域名购买成功（fengxi2233.love）</p>]]></content>
       
     </entry>
     
@@ -308,6 +297,17 @@
       <url>/tuku/erciyuan/index.html</url>
       
         <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="/img/wallpaper/tu(1).jpg"><br><img src="/img/wallpaper/tu(2).jpg"><br><img src="/img/wallpaper/tu(3).jpg"><br><img src="/img/wallpaper/tu(4).jpg"><br><img src="/img/wallpaper/tu(5).jpg"><br><img src="/img/wallpaper/tu(6).jpg"><br><img src="/img/wallpaper/tu(7).jpg"><br><img src="https://s2.loli.net/2022/11/12/TBYStVMpHgXbDZW.jpg"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图库</title>
+      <link href="/tuku/index.html"/>
+      <url>/tuku/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2022/11/12/TBYStVMpHgXbDZW.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>收藏的一些图片</p>  <a href='/tuku/erciyuan'></a>  </figcaption>  </figure>  </div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/img/fengmian/meitu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">美图</div>  <p>普通的图片</p>  <a href='/tuku/meitu'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
