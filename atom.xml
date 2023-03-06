@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>枫汐</title>
   
-  
+  <subtitle>个人博客</subtitle>
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
@@ -10,7 +10,7 @@
   <id>https://www.fomal.cc/</id>
   
   <author>
-    <name>枫汐</name>
+    <name>枫 汐</name>
     
   </author>
   
