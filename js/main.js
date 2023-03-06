@@ -14,8 +14,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     let hideMenuIndex = ''
-    if (window.innerWidth <= 768) hideMenuIndex = true
-    else hideMenuIndex = blogNameWidth + menusWidth + searchWidth > $nav.offsetWidth - 120
+    if (window.innerWidth <= 800) hideMenuIndex = true
+    // 这行会引起缩放异常，删掉
+    // else hideMenuIndex = blogNameWidth + menusWidth + searchWidth > $nav.offsetWidth - 120
 
     if (hideMenuIndex) {
       $nav.classList.add('hide-menu')
@@ -94,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
         document.execCommand('copy')
         if (GLOBAL_CONFIG.Snackbar !== undefined) {
-          btf.snackbarShow(GLOBAL_CONFIG.copy.success)
+          // btf.snackbarShow(GLOBAL_CONFIG.copy.success)
         } else {
           const prevEle = ctx.previousElementSibling
           prevEle.innerText = GLOBAL_CONFIG.copy.success
@@ -103,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       } else {
         if (GLOBAL_CONFIG.Snackbar !== undefined) {
-          btf.snackbarShow(GLOBAL_CONFIG.copy.noSupport)
+          // btf.snackbarShow(GLOBAL_CONFIG.copy.noSupport)
         } else {
           ctx.previousElementSibling.innerText = GLOBAL_CONFIG.copy.noSupport
         }
@@ -277,7 +278,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const isChatBtnHide = typeof chatBtnHide === 'function'
     const isChatBtnShow = typeof chatBtnShow === 'function'
 
-    const scrollTask = btf.throttle(() => {
+    window.scrollCollect = () => {
+      return btf.throttle(function (e) {
         const currentTop = window.scrollY || document.documentElement.scrollTop
         const isDown = scrollDirection(currentTop)
         if (currentTop > 56) {
@@ -308,9 +310,8 @@ document.addEventListener('DOMContentLoaded', function () {
         if (document.body.scrollHeight <= innerHeight) {
           $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
         }
-      }, 200)
-    
-    window.scrollCollect = scrollTask
+      }, 200)()
+    }
 
     window.addEventListener('scroll', scrollCollect)
   }
@@ -468,16 +469,16 @@ document.addEventListener('DOMContentLoaded', function () {
       if (nowMode === 'light') {
         activateDarkMode()
         saveToLocal.set('theme', 'dark', 2)
-        GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)
+        // GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)
       } else {
         activateLightMode()
         saveToLocal.set('theme', 'light', 2)
-        GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.night_to_day)
+        // GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.night_to_day)
       }
       // handle some cases
       typeof utterancesTheme === 'function' && utterancesTheme()
       typeof changeGiscusTheme === 'function' && changeGiscusTheme()
-      typeof FB === 'object' && window.loadFBComment && window.loadFBComment()
+      typeof FB === 'object' && window.loadFBComment()
       typeof runMermaid === 'function' && window.runMermaid()
     },
     showOrHideBtn: (e) => { // rightside 點擊設置 按鈕 展開
