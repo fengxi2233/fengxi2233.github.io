@@ -6526,6 +6526,7 @@ blockquote.pullquote.right {
   --btn-bg: var(--theme-color) !important;
   --scrollbar-color: var(--theme-color) !important;
   --border-style: 1px solid rgba(169, 169, 169, 0.7);
+  --card-bg: rgba(255, 255, 255, .6);
   /* 代码框行数背景色 */
   --hlnumber-bg: #282c34;
   /* 代码框顶部背景色 */
