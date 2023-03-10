@@ -129,7 +129,7 @@
     <link href="https://www.fengxi2233.love/posts/f9015fd2.html"/>
     <id>https://www.fengxi2233.love/posts/f9015fd2.html</id>
     <published>2022-12-01T10:46:01.000Z</published>
-    <updated>2023-03-06T05:09:51.136Z</updated>
+    <updated>2023-03-10T06:14:19.378Z</updated>
     
     <content type="html"><![CDATA[<h2 id="图片">图片</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src= &quot;图片路径&quot; alt=&quot;图片名称&quot;&gt;</span><br></pre></td></tr></table></figure><h2 id="视频">视频</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;video src=&quot;路径&quot; controls style=&quot;width:宽;height:高;&quot;&gt;</span><br><span class="line">&lt;/video&gt;</span><br></pre></td></tr></table></figure><p>测试视频<br><video src="/video/html1.mp4" controls style="width:350px;height:250px;"><br></video></p><h2 id="链接文本">链接文本</h2><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[文本](链接)</span><br></pre></td></tr></table></figure><h2 id="字体颜色">字体颜色</h2><figure class="highlight hsp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;<span class="keyword">font</span> <span class="keyword">color</span>=<span class="string">&quot;颜色&quot;</span>&gt;文字内容&lt;/<span class="keyword">font</span>&gt;</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -142,7 +142,7 @@
     
     
     
-    <category term="代码" scheme="https://www.fengxi2233.love/categories/%E4%BB%A3%E7%A0%81/"/>
+    <category term="演示" scheme="https://www.fengxi2233.love/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
     <category term="HTML" scheme="https://www.fengxi2233.love/tags/HTML/"/>
