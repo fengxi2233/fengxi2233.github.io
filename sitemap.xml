@@ -155,15 +155,6 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fengxi2233.love/box/animation/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -173,43 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/life/music/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fengxi2233.love/life/games/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fengxi2233.love/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fengxi2233.love/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fengxi2233.love/personal/love/index.html</loc>
+    <loc>https://www.fengxi2233.love/box/nav/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -227,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/social/fcircle/index.html</loc>
+    <loc>https://www.fengxi2233.love/life/games/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -237,6 +192,51 @@
   
   <url>
     <loc>https://www.fengxi2233.love/site/time/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/life/music/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -293,13 +293,6 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/tags/%E6%9E%AB%E6%B1%90/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fengxi2233.love/tags/%E4%B8%AA%E4%BA%BA/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,6 +301,13 @@
   
   <url>
     <loc>https://www.fengxi2233.love/tags/magisk/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/tags/%E6%9E%AB%E6%B1%90/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -358,13 +358,6 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/categories/fx/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fengxi2233.love/categories/%E9%97%B2%E8%81%8A/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -373,6 +366,13 @@
   
   <url>
     <loc>https://www.fengxi2233.love/categories/%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/categories/fx/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
