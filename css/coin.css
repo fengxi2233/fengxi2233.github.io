@@ -154,7 +154,7 @@
   transform: translateY(calc(var(--back-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--back-scale-multiplier));
 }
 .coin__back::after {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
   content: '';
   opacity: var(--back-y-multiplier);
 }
