@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/personal/bb/index.html</loc>
+    <loc>https://www.fengxi2233.love/personal/love/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/personal/love/index.html</loc>
+    <loc>https://www.fengxi2233.love/personal/bb/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -281,13 +281,6 @@
 
   
   <url>
-    <loc>https://www.fengxi2233.love/tags/%E5%AD%90%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2023-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fengxi2233.love/tags/oppo/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,14 +288,14 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/tags/%E6%9E%AB%E6%B1%90/</loc>
+    <loc>https://www.fengxi2233.love/tags/HTML/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/tags/HTML/</loc>
+    <loc>https://www.fengxi2233.love/tags/%E5%AD%90%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -317,6 +310,13 @@
   
   <url>
     <loc>https://www.fengxi2233.love/tags/magisk/</loc>
+    <lastmod>2023-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/tags/%E6%9E%AB%E6%B1%90/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -353,13 +353,6 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/categories/%E8%8A%B1%E7%BF%BC/</loc>
-    <lastmod>2023-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fengxi2233.love/categories/%E6%89%8B%E6%9C%BA%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -367,14 +360,14 @@
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/categories/fx/</loc>
+    <loc>https://www.fengxi2233.love/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fengxi2233.love/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.fengxi2233.love/categories/%E8%8A%B1%E7%BF%BC/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -389,6 +382,13 @@
   
   <url>
     <loc>https://www.fengxi2233.love/categories/%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2023-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fengxi2233.love/categories/fx/</loc>
     <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
