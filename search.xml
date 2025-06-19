@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>tags</title>
+      <link href="/2025/06/19/2025-6-19/"/>
+      <url>/2025/06/19/2025-6-19/</url>
+      
+        <content type="html"><![CDATA[<h2 id="第一篇文字"><a href="#第一篇文字" class="headerlink" title="第一篇文字"></a>第一篇文字</h2><p>写法                 解释<br>title                【必需】文章标题<br>date                【必需】文章创建日期<br>updated             【可选】文章更新日期<br>tags                【可选】文章标籤<br>categories            【可选】文章分类<br>keywords            【可选】文章关键字<br>description         【可选】文章描述<br>top_img                【可选】文章顶部图片<br>cover                【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false&#x2F;图片地址&#x2F;留空)<br>comments            【可选】显示文章评论模块(默认 true)<br>toc                    【可选】显示文章TOC(默认为设置中toc的enable配置)<br>toc_number          【可选】显示toc_number(默认为设置中toc的number配置)<br>toc_style_simple    【可选】显示 toc 简洁模式<br>copyright            【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)<br>copyright_author    【可选】文章版权模块的文章作者<br>copyright_author_href【可选】文章版权模块的文章作者链接<br>copyright_url        【可选】文章版权模块的文章连结链接<br>copyright_info      【可选】文章版权模块的版权声明文字<br>mathjax                【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)<br>katex                【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)<br>aplayer             【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置<br>highlight_shrink    【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中highlight_shrink的配置)<br>aside                【可选】显示侧边栏 (默认 true)</p><h2 id="顶部图配置"><a href="#顶部图配置" class="headerlink" title="顶部图配置"></a>顶部图配置</h2><p>配置            解释<br>index_img        主页的 top_img<br>default_top_img    默认的 top_img，当页面的 top_img 没有配置时，会显示 default_top_img<br>archive_img        归档页面的 top_img<br>tag_img            tag子页面 的 默认 top_img<br>tag_per_img        tag子页面的 top_img，可配置每个 tag 的 top_img<br>category_img    category 子页面 的 默认 top_img<br>category_per_imgcategory 子页面的 top_img，可配置每个 category 的 top_img</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/06/19/hello-world/"/>
+      <url>/2025/06/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
