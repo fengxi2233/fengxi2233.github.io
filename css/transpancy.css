@@ -1,9 +1,9 @@
 /* 文章页背景 */
-.layout_post>#post {
+/* .layout_post>#post {
     /* 以下代表透明度为0.7 可以自行修改*/
-    background: rgba(255, 255, 255, .7);
+/*    background: rgba(255, 255, 255, .7);
 }
-
+*/
 /* 所有页面背景 */
 #aside_content .card-widget,
 #recent-posts>.recent-post-item,
@@ -23,5 +23,5 @@
 /* 页脚透明 */
 #footer {
     /* 以下代表透明度为0.1*/
-    background: rgba(255, 255, 255, .1);
+    background: rgba(255, 255, 255, 0);
 }
