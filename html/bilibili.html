@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>极简Bilibili账号控件</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #00000000;
+            padding: 30px;
+        }
+        
+        .bilibili-minimal-widget {
+            display: flex;
+            flex-direction: column;
+            max-width: 320px;
+            background: transparent;
+            padding: 0;
+        }
+        
+        .account-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        
+        .avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #f1f3f5, #e9ecef);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            overflow: hidden; /* 关键修复：防止图片溢出 */
+            border: 3px solid white;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* 修复头像溢出的关键样式 */
+        .avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+        }
+        
+        .account-info {
+            flex: 1;
+        }
+        
+        .username {
+            font-size: 20px;
+            font-weight: 600;
+            color: #ff6262;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .level {
+            font-size: 13px;
+            color: #6c757d;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            gap: 10px;
+        }
+        
+        .stat-item {
+            text-align: center;
+            flex: 1;
+        }
+        
+        .stat-value {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 3px;
+            color: #212529;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            color: #6c757d;
+        }
+        
+        .goto-btn {
+            width: 100%;
+            padding: 12px 0;
+            border: none;
+            background: #00a1d6;
+            color: white;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 3px 8px rgba(0, 161, 214, 0.2);
+        }
+        
+        .goto-btn i {
+            margin-right: 8px;
+        }
+        
+        .goto-btn:hover {
+            background: #0082ad;
+            box-shadow: 0 5px 12px rgba(0, 161, 214, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .goto-btn:active {
+            transform: translateY(0);
+        }
+        
+        .bilibili-brand {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 12px;
+            color: #6c757d;
+        }
+        
+        .bilibili-brand span {
+            color: #00a1d6;
+            font-weight: 600;
+        }
+        
+        /* 极简动画效果 */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .bilibili-minimal-widget > * {
+            animation: fadeIn 0.5s ease forwards;
+        }
+        
+        .account-header { animation-delay: 0.1s; }
+        .stats { animation-delay: 0.2s; }
+        .goto-btn { animation-delay: 0.3s; }
+        .bilibili-brand { animation-delay: 0.4s; }
+    </style>
+</head>
+<body>
+    <div class="bilibili-minimal-widget">
+        <div class="account-header">
+            <div class="avatar">
+                <img src="https://fengxi2233.cn/img/butterfly-icon.png" alt="头像">
+            </div>
+            <div class="account-info">
+                <div class="username">
+                    <span>枫汐h</span>
+                </div>
+                <div class="level">
+                    Lv6 咸鱼up
+                </div>
+            </div>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-value">83</div>
+                <div class="stat-label">粉丝</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">518</div>
+                <div class="stat-label">关注</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">196</div>
+                <div class="stat-label">获赞</div>
+            </div>
+        </div>
+        
+        <button class="goto-btn" id="goto-space">
+            <i class="fas fa-external-link-alt"></i> 进入空间
+        </button>
+        
+        <div class="bilibili-brand">
+            <span>BILIBILI</span> 账号信息
+        </div>
+    </div>
+    
+    <script>
+        // 跳转到B站空间
+        document.getElementById('goto-space').addEventListener('click', function() {
+            // 添加点击反馈效果
+            const originalText = this.innerHTML;
+            this.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 正在跳转...';
+            this.style.background = '#0082ad';
+            
+            // 模拟加载效果后跳转
+            setTimeout(() => {
+                window.open('https://space.bilibili.com/330436369', '_blank');
+                
+                // 恢复按钮状态
+                setTimeout(() => {
+                    this.innerHTML = originalText;
+                    this.style.background = '#00a1d6';
+                }, 1000);
+            }, 800);
+        });
+    </script>
+</body>
+</html>
